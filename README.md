@@ -58,7 +58,7 @@ table.delete_row('name = "John" AND surname = "Wisley"')
 ...
 ```
 
-More examples in [sample_table.py](https://github.com/Exenifix/ExenDB/blob/exampels/sample_table.py)
+More examples in [sample_table.py](https://github.com/Exenifix/ExenDB/blob/master/examples/sample_table.py)
 
 # Classes
 ## Database
