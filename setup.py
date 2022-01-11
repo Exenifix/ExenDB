@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup(
     name='exendb',
-    version='0.0.1',
+    version='0.0.2',
     author='Exenifix',
     license='MIT',
     url='https://github.com/Exenifix/ExenDB',
