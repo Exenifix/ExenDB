@@ -12,12 +12,11 @@ setup(
     description='A simple library that covers sqlite3\'s basic functionality.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    py_modules=['exendb'],
+    packages=['exendb'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent"
     ],
-    python_requires='>=3.7',
-    package_dir={'': 'exendb'}
+    python_requires='>=3.7'
 )
